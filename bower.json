@@ -1,0 +1,21 @@
+{
+  "name": "VideoCrazy",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Nhuan <nhua.nhua@yahoo.com.vn>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nhuanhoangduc/VideoCrazy",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
